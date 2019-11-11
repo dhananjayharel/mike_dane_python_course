@@ -1,0 +1,4 @@
+{"mainfile":"main.py",
+"compilemenucommand":"python3 main.py",
+"runmenucommand":"python3 main.py"
+}
